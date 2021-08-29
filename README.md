@@ -57,6 +57,12 @@ This application will help and organize all your notes, starting from the more r
   <img src="img/img3.png"/>
   <img src="img/gif1.gif">
   
+  <br>
+  <br>
+  <br>
+
+  <h3>To view full video please click <a href="https://drive.google.com/file/d/1tR_CkgsXbmltyAJ-NR12poZsofhZ05Be/view">here.</a></h3>
+
   </details>
   
   <br/>
