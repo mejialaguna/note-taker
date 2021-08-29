@@ -38,7 +38,7 @@
   <br/>
   
   ## About
-  ---
+  
 
   <br/>
 
@@ -48,8 +48,8 @@ This application will help and organize all your notes, starting from the more r
   <br/>
 
   <details>
-  <summary>Usage Screenshots and Demo</summary>
-
+   <summary>Usage Screenshots and Demo</summary>
+    
   <br/> 
   
   <img src="img/img1.png"/> 
@@ -65,6 +65,7 @@ This application will help and organize all your notes, starting from the more r
 
   </details>
   
+
   <br/>
   <br/>
   
