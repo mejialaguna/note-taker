@@ -16,7 +16,7 @@
   <div align="center">
   <br/>
   
-  [![code with hearth by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GITHUB_mejialaguna-ff1414.svg?style=flat-square)](https://github.com/mejialaguna/note-taker.git)[![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com/notes)
+  [![code with hearth by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GITHUB_mejialaguna-ff1414.svg?style=flat-square)](https://github.com/mejialaguna/note-taker.git)[![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com)
 [![License:](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
     
   </div>
@@ -42,7 +42,7 @@
 
   <br/>
 
-This application will help and organize all your notes, starting from the more recent place to the previous one. if you want to use this app just click <a href="https://note-taking-helper.herokuapp.com/" >Here</a> for a direct access and For any Question or to mention a bug please click  <a href="https://github.com/mejialaguna/note-taker/issues/1">here...</a>
+This application will help and organize all your notes, starting from the more recent place to the previous one. if you want to use this app just click <a href="https://note-taking-helper.herokuapp.com" >Here</a> for a direct access and For any Question or to mention a bug please click  <a href="https://github.com/mejialaguna/note-taker/issues/1">here...</a>
 
   <br/>
   <br/>
@@ -146,7 +146,7 @@ This application will help and organize all your notes, starting from the more r
 ---
 <br>
 
-[![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com/notes)
+[![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com)
 
 
 <br/>
