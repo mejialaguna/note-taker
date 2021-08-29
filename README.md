@@ -71,7 +71,7 @@ This application will help and organize all your notes, starting from the more r
   
   
   ## Built With
-  ---
+  
 
   <br/>
 
@@ -86,7 +86,7 @@ This application will help and organize all your notes, starting from the more r
   <br/>
   
   ## Installation (if you like to download this app to your local pc)
-  ---
+  
 
   <br/>
   
@@ -109,7 +109,7 @@ This application will help and organize all your notes, starting from the more r
   
   
   ##  Authors & contributors
-  ---
+  
 
   <br/>
    
@@ -119,7 +119,7 @@ This application will help and organize all your notes, starting from the more r
   <br/>
   
   ## Acknowledgements
-  ---
+  
 
   <br/>
   First off , thanks for taking the time to check out my app! , contribution are what make this open-source community such an amazing place to learn , inspire and create. Any contribution you make will benefit everyone interested in using the app and are very appriciated.
@@ -131,7 +131,7 @@ This application will help and organize all your notes, starting from the more r
   <br/>
   
   ## License
-  ---
+  
   <br/>
 
 [![License:](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
@@ -144,7 +144,7 @@ This application will help and organize all your notes, starting from the more r
 <br>
 
 ## Heroku
----
+
 <br>
 
 [![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com)
@@ -157,7 +157,7 @@ This application will help and organize all your notes, starting from the more r
 
 
 ## Acceptance Criteria
----
+
 <br>
 
 
