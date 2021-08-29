@@ -1,7 +1,3 @@
-# 11 Express.js: Note Taker
-
-  
-  
   <br/>
   <br/>
   
@@ -32,8 +28,8 @@
   
   - [About](#about)
   - [Built With](#built-with)
-  - [Installation](#installation)
   - [Authors & contributors](#authors--contributors)
+  - [Installation](#installation)
   - [Acknowledgements](#Acknowledgements)
   - [License](#License) 
   
@@ -46,8 +42,8 @@
 
   <br/>
 
-  This application is designed to add and keep track of all the employees inside of a company. 
-  
+This application will help and organize all your notes, starting from the more recent place to the previous one. if you want to use this app just click <a href="https://note-taking-helper.herokuapp.com/" >Here</a> for a direct access and For any Question or to mention a bug please click  <a href="https://github.com/mejialaguna/note-taker/issues/1">here...</a>
+
   <br/>
   <br/>
 
@@ -56,9 +52,10 @@
 
   <br/> 
   
-  <img src="img/pofilepic.png"/> 
-  <img src="img/pic2.png"/>
-  <img src="img/gifvideo.gif">
+  <img src="img/img1.png"/> 
+  <img src="img/img2.png"/>
+  <img src="img/img3.png"/>
+  <img src="img/gif1.gif">
   
   </details>
   
@@ -71,28 +68,34 @@
 
   <br/>
 
- >*  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
- >*  <a href="https://getbootstrap.com/">CSS</a>
- >*  <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript</a>
- >*  <a href="https://nodejs.org/en/">Node</a>
- >*  <a href="https://www.w3schools.com/js/js_es6.asp">ES6</a>
-  
-  
+> - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+> - <a href="https://getbootstrap.com/">CSS</a>
+> - <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API">JavaScript</a>
+> - <a href="https://nodejs.org/en/">Node</a>
+> - <a href="https://www.w3schools.com/js/js_es6.asp">ES6</a>
+> - <a href="https://expressjs.com/en/starter/installing.html">Expressjs</a>
+
   <br/>
   <br/>
   
-  ##  Installation
+  ## Installation (if you like to download this app to your local pc)
   ---
 
   <br/>
   
-   1. Install node js <a href="https://nodejs.org/en/"> [ HERE ]</a>. 
-   2. Install Inquirer Dependency <a href="https://www.npmjs.com/package/inquirer">[ Read Documentation here ]</a>.
-   3. Clone this <a href="https://github.com/mejialaguna/teamProfileGenerator.git">[ REPO ]</a>.
-   4. Run node index inside your terminal. 
-   5. Answer all the question. 
-   6. Fallow this path Develop/output/team.html , were the new HTML file will be created . 
-   7. Enjoy.[ https://github.com/mejialaguna/teamProfileGenerator.git ]
+   1. Clone this <a href="https://github.com/mejialaguna/note-taker.git">[ REPO ]</a>.
+   2. Install node js <a href="https://nodejs.org/en/"> [ HERE ]</a>.    
+   3. On you terminal type [ $ npm init ]   
+   4. Answer all the question. 
+   5. Install all dependencies.
+   <details >
+   <summary>Check all dependencies here.</summary>
+  
+  - express [ npm install express --save ] <a href="https://www.npmjs.com/package/express">read documentation here.</a>
+  - uniqid  [ npm i uniqid ] <a href="https://www.npmjs.com/package/uniqid">read documentation here.</a>  
+  </details>  
+  
+    6. Enjoy.
 
   <br/>
   <br/>
@@ -112,10 +115,11 @@
   ---
 
   <br/>
+  First off , thanks for taking the time to check out my app! , contribution are what make this open-source community such an amazing place to learn , inspire and create. Any contribution you make will benefit everyone interested in using the app and are very appriciated.
   
-  First off, thanks for taking the time to check out this app! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are greatly appreciated.
-  ---
-
+  
+  <br/>
+  <br/>
   <br/>
   <br/>
   
@@ -123,15 +127,32 @@
   ---
   <br/>
 
-  [![License:](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License:](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   <br/>
 
-  
-  
-  <a href="https://github.com/mejialaguna/teamProfileGenerator/issues/1">For any Question please click here...</a>
-  
+
+
+<br>
+<br>
+
+## Heroku
+---
+<br>
+
+[![Heroku App Status](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg?style=flat)](https://note-taking-helper.herokuapp.com/notes)
+
+
+<br/>
+  <br/>
+  <br/>
+  <br/>
+
+
 ## Acceptance Criteria
+---
+<br>
+
 
 ```
 GIVEN a note-taking application
