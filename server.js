@@ -22,4 +22,14 @@ app.delete("/api/notes/:id" , (req ,res) => {
     console.log(req.params.id)
 })
 
+
+// route to index.html
+app.get('/' , (req , res) =>{
+    res.sendFile(path.join(__dirname , "public/index.html"));
+})
+// route to notes.html
+app.get('/notes', (req,res) => {
+    res.sendFile(path.join(__dirname, "/public/notes.html"));
+});
+
 app.listen(PORT , () => console.log("now listening on port 3001"));
