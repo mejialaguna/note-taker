@@ -32,20 +32,20 @@ app.post("/api/notes", (req, res) => {
 
     let newNote = req.body;
     newNote.id = uniqid();
-    // oldNotes.unshift(newNote);
+    oldNotes.unshift(newNote);
 
     fs.writeFile(
       path.join(__dirname, "db/db.json"),
-      JSON.stringify([newNote, ...oldNotes]),
+      JSON.stringify(oldNotes),
       (err) => {
         if (err) {
           console.log(err);
           return;
         }
         //file written successfully
+        res.json(oldNotes);
       }
     );
-    res.json(oldNotes);
   });
 });
 
