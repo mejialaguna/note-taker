@@ -42,7 +42,7 @@
 
   <br/>
 
-This application will help and organize all your notes, starting from the more recent place to the previous one. if you want to use this app just click <a href="https://note-taking-helper.herokuapp.com" >Here</a> for a direct access and For any Question or to mention a bug please click  <a href="https://github.com/mejialaguna/note-taker/issues/1">here...</a>
+This application will help and organize all your notes, starting from the more recent place to the previous one. if you want to use this app just click <a href="https://note-taking-helper.herokuapp.com" >Here</a> for a direct access and For any Question or to mention a bug please click  <a href="https://github.com/mejialaguna/note-taker/issues/1">here...</a> and let the app help you keep all you notes save.
 
   <br/>
   <br/>
